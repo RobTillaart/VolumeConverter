@@ -114,12 +114,12 @@ Internal representation is the liter as it the ISO standard.
 
 #### Should
 
-- consider using double instead of float?
+- consider using double instead of float.
 
 #### Could
 
-- add unit tests
-- add examples
+- add more unit tests
+- add more examples
 
 #### won't (unless)
 

@@ -17,10 +17,10 @@
 //
 //  VOLUME CONVERTER CLASS
 //
-class volumeConverter
+class VolumeConverter
 {
 public:
-  volumeConverter()                     { _v = 0; };
+  VolumeConverter()                     { _v = 0; };
 
   //  SETTERS
   void setLiters(float value = 0)       { _v = value; };
