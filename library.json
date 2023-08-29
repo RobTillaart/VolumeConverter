@@ -1,6 +1,6 @@
 {
   "name": "VolumeConverter",
- ,"keywords": "liter,ton,barrel,gallon,quart,pint,cup,tablespoon",
+  "keywords": "liter,ton,barrel,gallon,quart,pint,cup,tablespoon,teaspoon",
   "description": "Arduino library to convert volume units.",
   "authors":
   [

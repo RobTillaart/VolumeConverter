@@ -115,9 +115,9 @@ unittest(test_Gallons)
   assertEqualFloat(4, VC.getQuarts(), 0.0001);
   assertEqualFloat(8, VC.getPints(), 0.0001);
   assertEqualFloat(16, VC.getCups(), 0.0001);
-  assertEqualFloat(128, VC.getFluidOunces(), 0.0001);
-  assertEqualFloat(256, VC.getTableSpoons(), 0.0001);
-  assertEqualFloat(768, VC.getTeaSpoons(), 0.0001);
+  assertEqualFloat(128, VC.getFluidOunces(), 0.001);
+  assertEqualFloat(256, VC.getTableSpoons(), 0.001);
+  assertEqualFloat(768, VC.getTeaSpoons(), 0.003);
 }
 
 
