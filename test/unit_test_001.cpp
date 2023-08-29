@@ -106,7 +106,7 @@ unittest(test_VolumeConverter)
 }
 
 
-unittest(test_VolumeConverter)
+unittest(test_Gallons)
 {
   VolumeConverter VC;
 
