@@ -55,8 +55,7 @@ To convert from one less known format to another just takes two calls, example:
 ```
 
 If you need to convert a lot of data between two formats, it is also possible to 
-pre-calculate a factor so the conversion is faster.
-On an UNO R3 the gain goes up to 20%.
+pre-calculate a factor so the conversion might be faster.
 
 
 ```cpp
